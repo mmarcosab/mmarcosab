@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmarcosab" alt="mmarcosab" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mmarcosab" target="blank"><img src="https://img.shields.io/twitter/follow/mmarcosab?logo=twitter&style=for-the-badge" alt="mmarcosab" /></a> </p>
-
 ### Blogs posts
 
 <h3 align="left">Connect with me:</h3>
