@@ -1,4 +1,6 @@
-## Hello 👋
+## Hello I'm Marcos 👋
+
+I'm a programmer.
 
 ## About me:
 
