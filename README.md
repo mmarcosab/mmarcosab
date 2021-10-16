@@ -34,16 +34,6 @@ Here are some ideas to get you started:
 <!-- </div>
 -->
 
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7188
-Fork on GitHub
-1382
-
-
-preview
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmarcosab&label=Profile%20views&color=0e75b6&style=flat" alt="mmarcosab" /> </p>
 
@@ -52,8 +42,6 @@ preview
 <p align="left"> <a href="https://twitter.com/mmarcosab" target="blank"><img src="https://img.shields.io/twitter/follow/mmarcosab?logo=twitter&style=for-the-badge" alt="mmarcosab" /></a> </p>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
