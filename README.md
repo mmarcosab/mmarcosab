@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmarcosab&label=Profile%20views&color=0e75b6&style=flat" alt="mmarcosab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmarcosab" alt="mmarcosab" /></a> </p>
 
-### Blogs posts
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +21,4 @@
   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mmarcosab&layout=compact&langs_count=7&theme=dark"/> -->
 <!-- </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmarcosab&label=Profile%20views&color=0e75b6&style=flat" alt="mmarcosab" /> </p>
