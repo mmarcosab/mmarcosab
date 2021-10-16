@@ -23,10 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Languages and Tools I'm using:
-
 <!--
+## Languages and Tools I'm using:
 
 <div>
   <a href="https://github.com/mmarcosab">
