@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://twitter.com/mmarcosab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmarcosab" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/marcos-vinicius-barbosa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmarcosab" height="30" width="40" /></a>
-<a href="https://instagram.com/mmarcosab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmarcosab" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/mmarcosab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmarcosab" height="30" width="40" /></a> -->
 <a href="https://medium.com/@mmarcosab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mmarcosab" height="30" width="40" /></a>
 </p>
 
