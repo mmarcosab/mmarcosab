@@ -1,8 +1,7 @@
 <h2 align="left">Hi 👋, I'm Marcos</h2>
 
 <p align="left">
-<a align="left">I am a backend developer and write a little about development on medium, connect with me:</a>
-<a href="https://medium.com/@mmarcosab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mmarcosab" height="30" width="40" /></a>
+<a align="left">I am a backend developer and write a little about development on medium, connect with me: medium.com/mmarcosab</a>
 </p>
 
 <p align="left"> 
