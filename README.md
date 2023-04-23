@@ -2,7 +2,7 @@
 
 <p align="left">
 <a align="left">I am a backend developer and write a little about development on medium, connect with me: http://medium.com/mmarcosab</a>
-<a align="left" href = "http://medium.com/mmarcosab">http://medium.com/mmarcosab</a>
+<a align="left" href = "medium.com/mmarcosab">http://medium.com/mmarcosab</a>
 </p>
 
 <p align="left"> 
