@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Marcos</h2>
+<h5 align="left">Hi 👋, I'm Marcos</h5>
 
 <p align="left">
 <a align="left">I am a backend developer and write a little about development on medium, connect with me: http://medium.com/mmarcosab</a>
