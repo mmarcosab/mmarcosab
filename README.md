@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Marcos</h2>
 
 <p align="left">
-<a align="left">I am a backend developer and write a little about development on medium, connect with me: medium.com/mmarcosab</a>
+<a align="left">I am a backend developer and write a little about development on medium, connect with me: http://medium.com/mmarcosab</a>
 </p>
 
 <p align="left"> 
