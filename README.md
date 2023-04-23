@@ -1,8 +1,11 @@
-<h5 align="left">Hi 👋, I'm Marcos</h5>
+<h3 align="left">Hi 👋, I'm Marcos</h3>
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a align="left">I am a backend developer and write a little about development on medium, connect with me: http://medium.com/mmarcosab</a>
-<a align="left" href = "medium.com/mmarcosab">http://medium.com/mmarcosab</a>
+<!--<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmarcosab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmarcosab" height="30" width="40" /></a> -->
+<!--<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmarcosab" height="30" width="40" /></a> -->
+<a href="https://medium.com/@mmarcosab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mmarcosab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Tools, and Frameworks:</h3>
